@@ -53,5 +53,5 @@ virtualenv-clone==0.5.3
 virtualenvwrapper==4.8.4
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.15.4
+Werkzeug==3.0.6
 zope.interface==4.6.0
